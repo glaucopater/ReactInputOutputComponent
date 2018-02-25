@@ -1,0 +1,18 @@
+.myUserOutput
+{
+    border: 1px dashed #ccc; 
+    margin: 2px auto;
+}
+
+p.myLabel{
+    padding: 3px;
+    font-weight: bold;
+    display: inline-block;
+}
+ 
+p.myInput{
+    padding: 3px;
+    color: green; 
+    display: inline-block;
+}
+ 

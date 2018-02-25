@@ -1,0 +1,8 @@
+input{
+    color: blue;
+    padding: 3px;
+    font-weight: bold;
+    display: inline-block;
+    border: 1px dashed #ccc; 
+    margin: 2px auto;
+}
